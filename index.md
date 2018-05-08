@@ -8,4 +8,4 @@ I'm also interested in semantics, such as the semantics of generics and the role
 
 I have links to and descriptions of papers (both published and in progress) [here](papers.md), descriptions of my teaching style and previous courses [here](teach.md), and a description of some of my non-philosophical interests and hobbies [here](hobbies.md). My CV can be found [here](cv.pdf).
 
-Get in touch with me by [email](href="mailto:jaredhenderson@tuta.io"), [Keybase](https://keybase.io/jhen), or [Twitter.](https://twitter.com/jzhjzhjzhjzhjzh)
+Get in touch with me at jaredhenderson@tuta.io, [Keybase](https://keybase.io/jhen), or [Twitter.](https://twitter.com/jzhjzhjzhjzhjzh)
