@@ -9,7 +9,7 @@ I'm one of the collaborators on this podcast. We try to bring philosophical nuan
 
 *Fiction*
 
-I'm an avid reader, especially of science fiction. Some of my favorite writers are Douglas Adams, Ursula K. LeGuine, Octavia Butler, and Cixin Liu. I'm planning to read all of Terry Pratchett's *Discworld* novels --- at this point I'm about 10% there. I'm also lately revisiting some old favorites; currently I'm reading (and loving) *Farenheit 451.*
+I'm an avid reader, especially of science fiction. Some of my favorite writers are Douglas Adams, Ursula K. LeGuin, Octavia Butler, and Cixin Liu. I'm planning to read all of Terry Pratchett's *Discworld* novels --- at this point I'm about 10% there. I'm also lately revisiting some old favorites; currently I'm reading (and loving) *Farenheit 451.*
 
 
 
