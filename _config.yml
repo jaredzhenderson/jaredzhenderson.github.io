@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: Jared Henderson
 
 description: Philosophy, etc.
+
+permalink: /404.html
