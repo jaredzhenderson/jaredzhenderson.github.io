@@ -11,5 +11,9 @@ I'm one of the collaborators on this podcast. We try to bring philosophical nuan
 
 I'm an avid reader, especially of science fiction. Some of my favorite writers are Douglas Adams, Ursula K. LeGuin, Octavia Butler, and Cixin Liu. I'm planning to read all of Terry Pratchett's *Discworld* novels --- at this point I'm about 10% there. I'm also lately revisiting some old favorites; currently I'm reading (and loving) *Farenheit 451.*
 
+*Advocating for internet privacy*
+
+Internet privacy -- the ability to browse and speak with anonymity (if we so choose), without having your personal data tracked and stored -- is a big passion of mine. I support and donate to the [Electronic Fronteir Foundation](https://eff.org) to try and build a free, open, and anonymous internet. I'm also working on a project, *Why We Need Privacy*, which I hope will serve as an accessible philosophical defense of internet privacy. 
+
 
 
