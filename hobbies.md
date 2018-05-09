@@ -13,7 +13,7 @@ I'm an avid reader, especially of science fiction. Some of my favorite writers a
 
 *Advocating for internet privacy*
 
-Internet privacy -- the ability to browse and speak with anonymity (if we so choose), without having your personal data tracked and stored -- is a big passion of mine. I support and donate to the [Electronic Fronteir Foundation](https://eff.org) to try and build a free, open, and anonymous internet. I'm also working on a project, *Why We Need Privacy*, which I hope will serve as an accessible philosophical defense of internet privacy. 
+Internet privacy -- the ability to browse and speak with anonymity (if we so choose), without having your personal data tracked and stored -- is a big passion of mine. In my ideal world, internet privacy wouldn't be something you have to try and maintain; it would be the default online experience. I support and donate to the [Electronic Fronteir Foundation](https://eff.org) to try to build a free, open, and anonymous internet. I'm also working on a project, *Why We Need Privacy*, which I hope will serve as an accessible philosophical defense of internet privacy. 
 
 
 
