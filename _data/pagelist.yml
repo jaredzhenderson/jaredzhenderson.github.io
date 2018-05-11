@@ -1,0 +1,15 @@
+docs_list_title: Navigation
+
+docs:
+
+- title: Home
+  url: hobbies.md
+
+-title: Papers
+ url: research.md
+
+- title: Hobbies
+	url: hobbies.md
+
+- title: CV
+	url: CV.pdf
