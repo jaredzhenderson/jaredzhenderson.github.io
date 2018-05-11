@@ -1,9 +1,4 @@
----
-title: home
-layout: default
-navigation:
-  order: 1
----
+
 
 I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu) and a member of the [Logic Group.](https://logic.uconn.edu) In Fall 2018, I'll be joining the [University of Connecticut Humanities Institute](https://humanities.uconn.edu/) as a research assistant.
 
