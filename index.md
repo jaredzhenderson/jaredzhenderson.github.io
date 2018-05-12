@@ -11,6 +11,6 @@ My default stance in philosophical debates is a pragmatic one: I first look at h
 
 I'm also generally interested in semantics, in particular the semantics of generics and the role of events in semantic theories, social epistemology, and skepticism. 
 
-I have links to and descriptions of papers (both published and in progress) [here](papers), descriptions of my teaching style and previous courses [here](teach), and a description of some of my non-philosophical interests and hobbies [here](hobbies). My CV can be found [here](cv.pdf).
+I have links to and descriptions of papers [here](papers), descriptions of my teaching style and previous courses [here](teach), and a description of some of my non-philosophical interests and hobbies [here](hobbies). My CV can be found [here](cv.pdf).
 
 Get in touch with me by [email](mailto:jaredhenderson@tuta.io), [Keybase](https://keybase.io/jhen), or [Twitter.](https://twitter.com/jzhjzhjzhjzhjzh)
