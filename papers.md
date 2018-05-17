@@ -26,3 +26,7 @@ This paper argues for the compatibility of truth-conditional semantics and defla
 
 [PDF](https://www.dropbox.com/s/8wgiqjvv645jw03/sem_def.pdf?dl=0)
 
+*Truth as Modal Closeness*
+
+I present a novel degree theory of truth: the *modal measurement theory.* I argue that 'true' behaves like a graded modal, measuring the closeness the nearest world that makes a sentence true.  I show that the modal measurement theory of truth has the resources to respond to common objections to degree theories of truth: logical consequence is still classical, sentences are non-linearly ordered, a sentence is false when not fully true, and the metaphysics of degrees of truth is all done in terms of well-understood metaphysical notions such as possible worlds and worldly similarities.
+
