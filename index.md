@@ -3,9 +3,9 @@ I am fourth-year graduate student at the [University of Connecticut](https://phi
 
 The majority of my research lies at the intersections of philosophical logic, philosophy of language, and metaphysics. More precisely, my research falls into three main categories:
 
-- The role of truth in truth-conditional semantics theories, in particular in the tradition of generative grammar
-- The semantics of 'true' and the natural language metaphysics of truth
-- Pluralism about truth
+- Non-absolute theories of truth, i.e. theories according to which truth is a matter of degree
+- The metaphysics of truth, especially pluralism
+- The nature of explanations in semantic and metasemantic theories, in particular the explanatory role of truth of truth
 
 My default stance in philosophical debates is a pragmatic one: I first look at how we use a word or concept, then I try to give a theory of it. Because of this, I am a methodological pluralist, and I believe that the semantics and metaphysics of truth differs in various domains of inquiry. In truth-conditional semantics, I believe the operative concept is purely logical, allowing for the convenient statements of model-theoretic results about natural language. In our everyday cognitive lives, I believe that truth is a substantive concept with an associated degree-theoretic metaphysics. This has lead me to defend the claims that 'true' is a gradable adjective and that the property of truth is non-absolute.
 
