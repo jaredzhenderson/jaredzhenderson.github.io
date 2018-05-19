@@ -7,7 +7,7 @@ This article argues for the compatibility of deflationism and truth-conditional 
 
 [PhilPapers](https://philpapers.org/rec/HENDTD-2)
 
-In Progress or Under Review
+Under Review
 ================================
 
 *Truth and Gradability*
@@ -15,6 +15,10 @@ In Progress or Under Review
 I argue for two claims: that the ordinary English truth predicate is a gradable adjective and that truth is a property that comes in degrees. The first is a semantic claim, motivated by the linguistic evidence and the similarity of the truth predicate's behavior to other gradable terms. The second is a claim in natural language metaphysics, motivated by interpreting the best semantic analysis of gradable terms as applied to the truth predicate. In addition to providing arguments for these two claims, I draw out consequences for debates about deflationism and truth-based analyses of notions such as assertion and logical consequence. I argue that deflationism is incompatible with the gradability of truth, but that with some minor modifications, degrees of truth theorists can retain standard accounts of assertion and logical consequence, including the full resources of classical logic.
 
 [PDF](https://www.dropbox.com/s/2wyhznzldiamv8i/henderson_truth_gradability.pdf?dl=0)
+
+*Formulating Strong Alethic Pluralism*
+
+In this reply to some recent work by Pedersen, I show that his formulation of strong alethic pluralism is not simply *unstable*, as he argues, but *self-undermining.* The formulation of strong alethic pluralism employs a universal truth predicate --- which shows that strong alethic pluralism is false. I propose a revised formulation of strong alethic pluralism which is not self-undermining. 
 
 *Absoluteness and Alethic Pluralism*
 
@@ -25,6 +29,9 @@ Pluralists about truth take a liberal attitude toward truth: there are many trut
 This paper argues for the compatibility of truth-conditional semantics and deflationary theories of truth. I argue that we can utilize a deflated notion of truth and truth-conditions in our semantics without loss of explanatory power, as 'is true' plays a dispensable role in semantic explanations. I address how deflationists should accommodate truth-conditions in their semantic theory, and I show how non-alethic paraphrases of common lexical entries can be given. I conclude by offering a reassessment of the assumption that truth-conditional semantics and deflationism are incompatible: while deflationism is incompatible with philosophical truth-conditional theories of meaning, it is perfectly compatible with truth-conditional semantics as practiced in linguistics. 
 
 [PDF](https://www.dropbox.com/s/8wgiqjvv645jw03/sem_def.pdf?dl=0)
+
+In Progress
+===================
 
 *Truth as Modal Closeness*
 
