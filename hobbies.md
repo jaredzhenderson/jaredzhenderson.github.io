@@ -5,11 +5,11 @@ While philosophy is really wonderful, I have a few other passions and projects t
 
 *Badlands: A Politics & Philosophy Podcast*
 
-I'm one of the collaborators on this podcast. We try to bring philosophical nuance to political discussions. We've been working on a series on money in politics and have recorded a number of roundtable discussions about issues such as political compromise, optics in politics, and what future generations might blame us for. We plan to launch mid-summer 2018.
+I'm one of the collaborators [on this podcast](http://www.badlandsphilosophy.com/#/). We try to bring philosophical nuance to political discussions. We've been working on a series on money in politics and have recorded a number of roundtable discussions about issues such as political compromise, optics in politics, and what future generations might blame us for. 
 
 *Fiction*
 
-I'm an avid reader, especially of science fiction. Some of my favorite writers are Douglas Adams, Ursula K. LeGuin, Octavia Butler, and Cixin Liu. I'm planning to read all of Terry Pratchett's *Discworld* novels --- at this point I'm about 15% there. Favorites so far have been *Equal Rites* and *Men At Arms.* I'm also revisiting some favorites from high school; I just finished *Fahrenheit 451* and am planning to go through most of Orwell's catalogue this summer.
+I'm an avid reader, especially of science fiction. Some of my favorite writers are Douglas Adams, Ursula K. LeGuin, and Cixin Liu. Some of my favorite novels I've read this year include *Men at Arms*, *Crime & Punishment*, and *Vacationland.*
 
 *Advocating for internet privacy*
 
