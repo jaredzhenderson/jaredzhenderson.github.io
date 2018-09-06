@@ -1,15 +1,12 @@
-I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu) and a member of the [Logic Group.](https://logic.uconn.edu) I also work at [University of Connecticut Humanities Institute](https://humanities.uconn.edu/) as a research assistant.
+I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu) and a member of the [Logic Group.](https://logic.uconn.edu) This fall I joined the [University of Connecticut Humanities Institute](https://humanities.uconn.edu/) as a graduate assistant.
 
-The majority of my research lies at the intersections of philosophical logic, philosophy of language, and metaphysics. More precisely, my research falls into three main categories:
-
-- Non-absolute theories of truth, i.e. theories according to which truth is a matter of degree
-- The metaphysics of truth, especially pluralism
-- The nature of explanations in semantic and metasemantic theories, in particular the explanatory role of truth
-
-My default stance in philosophical debates is a pragmatic one: I first look at how a word or concept is used, then I try to give a theory of it. Because of this, I am disposed to pluralism, and I believe that the semantics and metaphysics of truth differs in various domains of inquiry. In truth-conditional semantics, I believe the operative concept is purely logical, allowing for the convenient statements of model-theoretic results about natural language. In our everyday cognitive lives, I believe that truth is a substantive concept with an associated degree-theoretic metaphysics. This has lead me to defend the claims that 'true' is a gradable adjective and that the property of truth is non-absolute.
+The majority of my research lies at the intersections of philosophical logic, philosophy of language, and metaphysics. Most of my research is on the nature and uses of semantic concepts, and especially truth. My dissertation is on theories of truth, and in particular *deflationary* and *degree-theoretic* conceptions of truth. These issue are the subject of the bulk of [my writing](papers).
 
 I'm also generally interested in semantics, in particular the semantics of generics and the role of events in semantic theories, social epistemology, and skepticism. 
 
-I have links to and descriptions of papers [here](papers), descriptions of my teaching style and previous courses [here](teach), and a description of some of my non-philosophical interests and hobbies [here](hobbies). My CV can be found [here](cv.pdf).
+While at UConn, I've [taught several courses](teach). I enjoy experimenting with pedagogy. I've also served as a research assistant for [Jc Beall](http://www.entailments.net), with whom I've collaborated on a project in logic and analytic theory. I'm currently a research assistant for [Keith Simmons](https://www.keithegsimmons.com/); my task is to survey contemporary defenses of correspondence theories of truth. 
+
+For more information, [check out my CV.](cv.pdf)
 
 Get in touch with me by [email](mailto:jaredhenderson@tuta.io), [Keybase](https://keybase.io/jhen), or [Twitter.](https://twitter.com/jzhjzhjzhjzhjzh)
+
