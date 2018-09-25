@@ -1,3 +1,5 @@
+![imageofme](cuppingroomjared.jpg)
+
 I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu) and a member of the [Logic Group.](https://logic.uconn.edu) This fall I joined the [University of Connecticut Humanities Institute](https://humanities.uconn.edu/) as a graduate assistant. In June, after defending my dissertation, I will be joining [Cycorp](https://cyc.com) as an ontological engineer.
 
 The majority of my research lies at the intersections of philosophical logic, philosophy of language, and metaphysics. Most of my research is on the nature and uses of semantic concepts, and especially truth. My dissertation is on theories of truth, and in particular *deflationary* and *degree-theoretic* conceptions of truth. These issue are the subject of the bulk of [my writing](papers).
