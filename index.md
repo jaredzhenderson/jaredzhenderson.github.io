@@ -1,6 +1,6 @@
 ![imageofme](cuppingroomjared.jpg)
 
-I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu, a member of the [Logic Group.](https://logic.uconn.edu), and a research assistant at the [University of Connecticut Humanities Institute](https://humanities.uconn.edu/). I plan to defend my dissertation, *Degrees and Deflationism*, in the coming spring semester.
+I am fourth-year graduate student at the [University of Connecticut](https://philosophy.uconn.edu), a member of the [Logic Group.](https://logic.uconn.edu), and a research assistant at the [University of Connecticut Humanities Institute](https://humanities.uconn.edu/). I plan to defend my dissertation, *Degrees and Deflationism*, in the coming spring semester.
 
 In June I will be joining [Cycorp](https://cyc.com) as an ontological engineer.
 
