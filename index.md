@@ -4,4 +4,4 @@ I am fourth-year graduate student at the [University of Connecticut](https://phi
 
 In June I will be joining [Cycorp](https://cyc.com) as an ontological engineer.
 
-Get in touch with me by [email](mailto:jaredhenderson@tuta.io), [Keybase](https://keybase.io/jhen), [LinkedIn](https://www.linkedin.com/in/jared-henderson-66b9a0162/), or [Twitter.](https://twitter.com/jzhjzhjzhjzhjzh)
+Get in touch with me by [email](mailto:jaredhenderson@tuta.io), [Keybase](https://keybase.io/jhen), or [LinkedIn](https://www.linkedin.com/in/jared-henderson-66b9a0162/).
