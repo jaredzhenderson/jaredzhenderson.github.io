@@ -1,6 +1,6 @@
 ![imageofme](cuppingroomjared.jpg)
 
-I received my PhD in Philosophy from the [University of Connecticut](https://philosophy.uconn.edu) in Spring of 2019. While at UConn I was a member of the [Logic Group.](https://logic.uconn.edu) and a research assistant at the [University of Connecticut Humanities Institute.](https://humanities.uconn.edu/)
+I received my PhD in Philosophy from the [University of Connecticut](https://philosophy.uconn.edu) in Spring of 2019. While at UConn I was a member of the [Logic Group](https://logic.uconn.edu) and a research assistant at the [University of Connecticut Humanities Institute.](https://humanities.uconn.edu/)
  
 In June I will be joining [Cycorp](https://cyc.com) as an ontological engineer. 
 
