@@ -5,7 +5,7 @@ Published
 
 We advance a neglected QUA solution to the fundamental problem of Christology. Our chief aim is to put the view on the theological table, leaving future debate to tell its ultimate fate. After presenting the view we measure it against standard problems that confront extant QUA views and also against objections peculiar to the proposed view. 
 
-[Available Open Access from the Journal](https://place.asburyseminary.edu/faithandphilosophy/vol36/iss2/1/)
+[Open Access link from the journal](https://place.asburyseminary.edu/faithandphilosophy/vol36/iss2/1/)
 
 
 *Deflating the Determination Argument*, pulished in *Thought*
