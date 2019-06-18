@@ -28,4 +28,4 @@ Dissertation
 
 This dissertation investigates the limits of deflationary theories of truth and offers in their place a degree-theoretic conception of truth. The primary focus is on the intersections of theories of truth and theories of linguistic meaning, particularly as found in contemporary linguistics. I offer two degree theories: one substantive and one deflationary. It is argued that the substantive theory is the best descriptive theory of truth, but that the deflationary theory is an attractive revisionary theory.
 
-[Link]
+[Link](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=8377&context=dissertations)
