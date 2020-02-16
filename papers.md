@@ -21,6 +21,14 @@ Under Review
 
 I argue for two claims: that the ordinary English truth predicate is a gradable adjective and that truth is a property that comes in degrees. The first is a semantic claim, motivated by the linguistic evidence and the similarity of the truth predicate's behavior to other gradable terms. The second is a claim in natural language metaphysics, motivated by interpreting the best semantic analysis of gradable terms as applied to the truth predicate. In addition to providing arguments for these two claims, I draw out consequences for debates about deflationism and truth-based analyses of notions such as assertion and logical consequence. I argue that deflationism is incompatible with the gradability of truth, but that with some minor modifications, degrees of truth theorists can retain standard accounts of assertion and logical consequence, including the full resources of classical logic.
 
+Works in Progress
+===============================
+
+*Gappy Christology*
+
+Jc Beall has recently defended a contradictory or 'glutty' Christology in a series of papers. In this paper, I put forward the logical dual of such a theory: a gappy Christological. According to this view, claims about Christ are neither true nor false, but rather have the truth value ``n``. The logic for theology is something like **K3** instead of **LP** or **FDE** --- that is, the logic is tolerant of gaps but not gluts. I argue that this view is an analytic continuation of *apaphatic* approaches to theology and that it has all of the virtues of Beall's glutty Christology. 
+
+
 Dissertation
 ===============================
 
