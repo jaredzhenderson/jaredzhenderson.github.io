@@ -26,7 +26,7 @@ Work in Progress
 
 *Gappy Christology*
 
-Jc Beall has recently defended a contradictory or 'glutty' Christology in a series of papers. In this paper, I put forward the logical dual of such a theory: a gappy Christological. According to this view, claims about Christ are neither true nor false, but rather have the truth value ``n``. The logic for theology is something like **K3** instead of **LP** or **FDE** --- that is, the logic is tolerant of gaps but not gluts. I argue that this view is an analytic continuation of *apaphatic* approaches to theology and that it has all of the virtues of Beall's glutty Christology. 
+Jc Beall has recently defended a contradictory or 'glutty' Christology in a series of papers. In this paper, I put forward the logical dual of such a theory: a gappy Christology. According to this view, claims about Christ are neither true nor false, but rather have the truth value ``n``. The logic for theology is something like **K3** instead of **LP** or **FDE** --- that is, the logic is tolerant of gaps but not gluts. I argue that this view is an analytic continuation of *apaphatic* approaches to theology and that it has all of the virtues of Beall's glutty Christology. 
 
 
 Dissertation
