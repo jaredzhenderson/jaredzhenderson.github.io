@@ -4,4 +4,9 @@ title: Jared Henderson
 
 description: Philosophy, Ontology, NLP
 
+header_pages:
+  - papers.md
+  - hendersonCV.pdf
+  
+
 permalink: /404.html
