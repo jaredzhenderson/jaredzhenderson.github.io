@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+theme: minima
 
 title: Jared Henderson
 
-description: Philosophy, Ontology, AI
+description: Philosophy, Ontology, NLP
 
 permalink: /404.html
